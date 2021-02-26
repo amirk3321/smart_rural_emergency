@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18128717213",
+    "firebase_url": "https://smart-rural-emergency.firebaseio.com",
+    "project_id": "smart-rural-emergency",
+    "storage_bucket": "smart-rural-emergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18128717213:android:c05ab2a2ae28b935fa1b74",
+        "android_client_info": {
+          "package_name": "com.etechviral.smart_rural_emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18128717213-of4q3qp9iq03o9pskv79fvanhtmem05p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YTsdW4Z4aFAteJsyJ95cPu-8KGq7PsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18128717213-of4q3qp9iq03o9pskv79fvanhtmem05p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
